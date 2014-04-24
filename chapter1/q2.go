@@ -4,6 +4,7 @@ import(
 	"fmt"
 )
 
+//For loops, goto, basic array
 func main(){
 	fmt.Printf("Part One\n")
 	partOne()
